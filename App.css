@@ -1,0 +1,64 @@
+body{
+  background-color:black;
+ 
+  height:2845px;
+  width:100%;
+ 
+}
+.h{
+  background-color:rgba(0, 255, 208, 0.799);
+  height:100px;
+  width:100%;
+
+}
+h1{
+  text-align:center;
+  justify-content:center;
+  font-size:40px;
+  color:white;
+}
+.add{
+  background-color:lightpink;
+  color:white;
+  padding:10px;
+  margin:10px;
+  cursor:pointer;
+}
+
+.tx{
+justify-content:center;
+align-items:center;
+color:black;
+padding-left:560px;
+margin-top:20px;
+font-size:30px;
+background-image:url(' https://i.pinimg.com/originals/ac/54/a1/ac54a128942c750799c2c1fe144d2467.jpg');
+height:2845px;
+width:1600px;
+background-attachment: fixed;
+background-repeat:no-repeat;
+  
+}
+.tx input{
+  border:2px solid black;
+  border-radius:6px;
+  height:30px;
+ 
+}
+
+.delete{
+  margin:10px;
+  cursor:pointer;
+}
+.mv{
+  margin:10px;
+  cursor:pointer;
+}
+.delete:hover{
+  background-color:crimson;
+  color:white;
+}
+.mv:hover{
+  background-color:lightgreen;
+  color:white;
+}
